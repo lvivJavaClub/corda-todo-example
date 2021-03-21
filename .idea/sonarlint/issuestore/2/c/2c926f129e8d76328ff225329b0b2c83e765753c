@@ -1,0 +1,7 @@
+
+G
+java:S1612E",Replace this lambda with a method reference.(ëµ©õşÿÿÿÿ
+p
+java:S1450"URemove the "sender" field and declare it as a local variable in the relevant methods.(ğçÒÿÿÿÿÿ
+q
+java:S1905C"VRemove this unnecessary cast to "org.sonar.java.resolve.Symbols$UnknownType@2cc7be52".(ñÛıùÿÿÿÿ
